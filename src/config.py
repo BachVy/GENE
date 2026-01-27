@@ -18,12 +18,12 @@ DATASETS = {
 
 # Cấu hình PA-5
 POP_SIZE = 10              
-MAX_ITER = 10            
-EXCHANGE_INTERVAL = 5     
+MAX_ITER = 50            
+EXCHANGE_INTERVAL = 10     
 PRINT_PROGRESS = True    
 THRESHOLD = 0.5
 K_MAX = 50
-R_RUNS = 2
+R_RUNS = 3
 
 # Trọng số Fitness
 ALPHA_ERROR = 0.7

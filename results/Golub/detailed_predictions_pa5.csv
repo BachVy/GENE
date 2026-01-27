@@ -1,4 +1,4 @@
-﻿Actual,Predicted_PA5,Verdict
+﻿Actual,Predicted,Verdict
 ALL,ALL,Correct
 ALL,ALL,Correct
 ALL,ALL,Correct
@@ -20,11 +20,8 @@ ALL,ALL,Correct
 ALL,ALL,Correct
 ALL,ALL,Correct
 AML,ALL,Wrong
-AML,AML,Correct
-AML,AML,Correct
-AML,AML,Correct
 AML,ALL,Wrong
-AML,ALL,Wrong
+AML,AML,Correct
 AML,ALL,Wrong
 AML,ALL,Wrong
 AML,ALL,Wrong
@@ -32,4 +29,7 @@ AML,ALL,Wrong
 AML,ALL,Wrong
 AML,ALL,Wrong
 AML,AML,Correct
+AML,ALL,Wrong
+AML,ALL,Wrong
+AML,ALL,Wrong
 AML,ALL,Wrong

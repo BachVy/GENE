@@ -1,8 +1,0 @@
-﻿Metric,Value
-Real Test Accuracy,70.59%
-Match Count (Test),24/34
-Total Fitness (Train),0.056745
-Error Rate (Train),0.158120
-Reduction Rate,0.007014
-Selected Genes Count,50
-Execution Time (s),752.39
