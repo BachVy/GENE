@@ -18,11 +18,11 @@ DATASETS = {
 
 # Cấu hình PA-5
 POP_SIZE = 10              
-MAX_ITER = 50            
+MAX_ITER = 30            
 EXCHANGE_INTERVAL = 10     
 PRINT_PROGRESS = True    
 THRESHOLD = 0.5
-K_MAX = 50
+K_MAX = 80  # Số gene tối đa được chọn
 R_RUNS = 1
 
 # Trọng số Fitness
