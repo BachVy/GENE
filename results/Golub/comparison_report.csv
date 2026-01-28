@@ -1,4 +1,4 @@
 ﻿Thông số,Dữ liệu Gốc,PA-5 Tối ưu
-Accuracy,73.53%,64.71%
+Accuracy,73.53%,79.41%
 Số lượng Gene,7129,50
-Thời gian thực thi RF (s),0.2285,0.1437
+Thời gian thực thi RF (s),0.1408,0.1445

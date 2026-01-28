@@ -23,7 +23,7 @@ EXCHANGE_INTERVAL = 10
 PRINT_PROGRESS = True    
 THRESHOLD = 0.5
 K_MAX = 50
-R_RUNS = 3
+R_RUNS = 1
 
 # Trọng số Fitness
 ALPHA_ERROR = 0.7

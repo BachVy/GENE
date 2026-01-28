@@ -1,9 +1,9 @@
 ﻿Metric,Value
-Real Test Accuracy,64.71%
-Match Count,22/34
+Real Test Accuracy,79.41%
+Match Count,27/34
 Total Fitness,0.001403
-Error Rate,0.025641
+Error Rate,0.051282
 Reduction Rate,0.007014
-Stability (Stab),0.005051
+Stability (Stab),1.000000
 Selected Genes,50
-Execution Time (s),1878.98
+Execution Time (s),623.27
